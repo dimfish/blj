@@ -5,3 +5,13 @@ List of things to do sometime:
 -German Sausage Deli(Mattern Sausage & Meats, Orange) -> Grill yum + their German potato salad is super super good!
 -Moscow Deli(Costa Mesa): I haven't been there, but heard that cheap! delicious!
 
+
+
+Mar 27, 2012: How to Print In The Lab
+-------------------------------------
+1. Send print job.  Walk to printer and wonder why no paper comes out.
+2. Send another print job, watch print queue on local machine, see job leave, repeat step 1.
+3. Send another print job, connect to printer's HTTP server, see status as READY, repeat step 1.
+4. Send another print job.  Growl.  Connect to local CUPS server from browser.  See green lights everywhere.
+5. Walk to printer, find print job waiting.
+6. Thank the printer god and promise to sacrifice more bytes for future print jobs.
